@@ -6,7 +6,7 @@ JDK 11, NodeJS 10.13.x/12.11.x or later minor, MySQL
 #### Steps:
 1) On the command line
     ```
-    git clone https://github.com/bh/blog.git
+    git clone https://github.com/BhavikaSadhana/Blog.git
     ```
 2) Create database
     ```
