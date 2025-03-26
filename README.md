@@ -1,7 +1,7 @@
 ## Spring Boot Angular Blog
 
 #### Prerequisite
-JDK 11, NodeJS 10.13.x/12.11.x or later minor, MySQL
+JDK 15, NodeJS 10.13.x/12.11.x or later minor, MySQL
 
 #### Steps:
 
